@@ -95,7 +95,7 @@ In this lab, we will create an Active Directory environment using Oracle Virtual
 
 ## 9. Create PowerShell Script for User Creation
 - **Description**: Prepare a PowerShell script to automate the creation of users in Active Directory.
-  - **Download PowerShell script by visiting my repository**
+  - **[Get the PowerShell script here](AD_PS-master.zip)**
   
 - **Run PowerShell script**
 - **Image**:  
