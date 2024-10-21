@@ -72,7 +72,7 @@ In this lab, we will create an Active Directory environment using Oracle Virtual
 ---
 
 ## 7. Install RAS/NAT
-- **Description**: Setting up RAS/NAT allows client machines to be on a virtual private network (VPN) while accessing the internet through the Domain Controller.
+- **Description**: Setting up RAS (Remote Access Service) and NAT (Network Address Translation) allows client machines to access a virtual private network (VPN) while also enabling them to connect to the internet through the Domain Controller.
 - **Image**:  
   ![Install RAS/NAT](images/ras1.png)
   ![Install RAS/NAT](images/ras2.png)
