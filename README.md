@@ -1,6 +1,8 @@
 # Description
 In this lab, we will create an Active Directory environment using Oracle VirtualBox and add users with PowerShell. We'll set up two virtual machines: a Domain Controller (DC) with two network interfaces—one connecting to the internet and the other to a private network for our client machine. We'll configure the domain server, set internet settings, install RAS/NAT and DHCP, and use PowerShell to add over 1,000 user accounts. This hands-on experience will enhance your understanding of Active Directory and Windows networking.
 
+![image](https://github.com/user-attachments/assets/969d7e36-1041-4bb4-b820-bf2f6583273c)
+
 ## Languages and Utilities Used
 
 - Oracle VirtualBox
